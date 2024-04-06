@@ -5,7 +5,7 @@ Hi you👋 I'm [Yirga Belay](https://github.com/Yirga-16)🤦‍♂️
 
 
 <h2 align="center">
-A Renewable Energy Engineer, Environment Physicist, Data Scientist & Machine Learning 
+A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
 </h2>
 
 
