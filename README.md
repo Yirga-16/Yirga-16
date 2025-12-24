@@ -1,18 +1,17 @@
 
 Hi you👋 I'm [Yirga Belay, PhD]([https://github.com/Yirga-16](https://Yirga-16.github.io))🤦‍♂️
+<h2 align="center">
+A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
+</h2>
 
-
- 🌐 **Academic CV and professional homepage** https://Yirga-16.github.io
 
 ---
 
 ## About
 This repository hosts my personal academic CV website, including my education,
 research experience, publications, and professional activities in:
+ 🌐 [Academic CV and professional homepage]([https://github.com/Yirga-16](https://Yirga-16.github.io))
 
-<h2 align="center">
-A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
-</h2>
 
 
 
