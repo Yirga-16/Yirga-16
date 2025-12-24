@@ -1,8 +1,16 @@
-Hi you👋 I'm [Yirga Belay](https://github.com/Yirga-16)🤦‍♂️
+
+Hi you👋 I'm [Yirga Belay, PhD]([https://github.com/Yirga-16](https://Yirga-16.github.io))🤦‍♂️
 
 
+Academic CV and professional homepage.
 
+🌐 **Live site:** https://Yirga-16.github.io
 
+---
+
+## About
+This repository hosts my personal academic CV website, including my education,
+research experience, publications, and professional activities in:
 
 <h2 align="center">
 A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
@@ -12,10 +20,13 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 
 ## ![4727424](https://github.com/Yirga-16/Yirga-16/assets/13764768/93890a56-2ad2-4ef1-832f-6bef36129ec4) I'm currently working on
 
-- Renewable energy and Environment
-- Electric Vehicle Charging system
-- Data Science
-- Machine Learning 
+- Renewable energy systems  
+- Smart grids and grid flexibility  
+- Battery Energy Storage Systems (BESS)  
+- Electric vehicle charging system  
+- Data science and machine learning
+- Environmental Physics
+
 
 ## Skills 
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/python.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
@@ -59,3 +70,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+© Yirga Belay
