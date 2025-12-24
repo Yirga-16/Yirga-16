@@ -10,7 +10,7 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 ## About
 This repository hosts my personal academic CV website, including my education,
 research experience, publications, and professional activities in:
- 🌐 [Academic CV and professional homepage]([https://github.com/Yirga-16](https://Yirga-16.github.io))
+ 🌐 [Academic CV and professional homepage](https://Yirga-16.github.io) 
 
 
 
