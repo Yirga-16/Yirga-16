@@ -1,4 +1,4 @@
-Hi you👋 I'm [Yirga Belay, PhD](https://Yirga-16.github.io) 🤦‍♂️
+Hi you👋 I'm [Yirga Belay, PhD](https://github.com/Yirga-16) 🤦‍♂️
 
 <h2 align="center">
 A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
@@ -17,12 +17,12 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 
 
 ## Skills 
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/python.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/MATLAB-Logo.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/sql-logo.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/microsoft_offcie.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/ansys-og.jpg" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/r_.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/python.png" width="50"/>](https://www.python.org/)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/MATLAB-Logo.png" width="50"/>](https://www.mathworks.com/products/matlab.html)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/sql-logo.png" width="50"/>](https://www.mysql.com/)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/microsoft_offcie.png" width="50"/>](www.microsoft.com)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/ansys-og.jpg" width="50"/>](https://www.ansys.com/)
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/r_.png" width="50"/>](https://www.r-project.org/)
 
 
 
@@ -34,12 +34,6 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 ### 🤝 Connect with me:
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/LinkedIn_icon.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/x-new-twitter-logo.png" width="50"/>](https://twitter.com/HY_Belay)
-
-
-
-- If you have any question/feedback, please do not hesitate to reach out to me! 
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/Gmail_icon.png" width="30"/>](mailto:besufikad@gmail.com)
-
 
 
 
@@ -63,5 +57,8 @@ Here are some ideas to get you started:
 For my personal academic CV website, including my education,
 research experience, publications, and professional activities in:
  🌐 [Academic CV and professional homepage](https://Yirga-16.github.io) 
+ 
+ - If you have any question/feedback, please do not hesitate to reach out to me! 
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/Gmail_icon.png" width="30"/>](mailto:besufikad@gmail.com)
 
 © Yirga Belay
