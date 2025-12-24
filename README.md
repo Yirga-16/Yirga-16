@@ -59,4 +59,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About
+For my personal academic CV website, including my education,
+research experience, publications, and professional activities in:
+ 🌐 [Academic CV and professional homepage](https://Yirga-16.github.io) 
+
 © Yirga Belay
