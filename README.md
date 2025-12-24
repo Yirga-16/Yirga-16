@@ -1,9 +1,15 @@
+## About
+
 Hi you👋 I'm [Yirga Belay, PhD](https://github.com/Yirga-16) 🤦‍♂️
 
 <h2 align="center">
 A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
 </h2>
 
+For my personal academic CV website, including my education,
+research experience, publications, and professional activities in:
+ 🌐 [Academic CV and professional homepage](https://Yirga-16.github.io) 
+ 
 ---
 
 ## ![4727424](https://github.com/Yirga-16/Yirga-16/assets/13764768/93890a56-2ad2-4ef1-832f-6bef36129ec4) I'm currently working on
@@ -36,6 +42,9 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/x-new-twitter-logo.png" width="50"/>](https://twitter.com/HY_Belay)
 
 
+ - If you have any questions/feedback, please do not hesitate to reach out to me! 
+[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/Gmail_icon.png" width="30"/>](mailto:besufikad@gmail.com)
+
 
 <!--
 **Yirga-16/Yirga-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,12 +62,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About
-For my personal academic CV website, including my education,
-research experience, publications, and professional activities in:
- 🌐 [Academic CV and professional homepage](https://Yirga-16.github.io) 
- 
- - If you have any question/feedback, please do not hesitate to reach out to me! 
-[<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/Gmail_icon.png" width="30"/>](mailto:besufikad@gmail.com)
+
 
 © Yirga Belay
