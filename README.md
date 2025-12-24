@@ -2,9 +2,7 @@
 Hi you👋 I'm [Yirga Belay, PhD]([https://github.com/Yirga-16](https://Yirga-16.github.io))🤦‍♂️
 
 
-Academic CV and professional homepage.
-
-🌐 **Live site:** https://Yirga-16.github.io
+ 🌐 **Academic CV and professional homepage** https://Yirga-16.github.io
 
 ---
 
