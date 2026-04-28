@@ -1,9 +1,7 @@
 ## About
 
-Hi you👋 I'm [Yirga Belay, PhD]([<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/LinkedIn_icon.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/))
-
-
 Hi you👋 I'm [Yirga Belay, PhD](https://www.linkedin.com/in/yirgabelay/)🤦‍♂️
+
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/LinkedIn_icon.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/) 
 
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/x-new-twitter-logo.png" width="50"/>](https://twitter.com/HY_Belay)
