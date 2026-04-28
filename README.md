@@ -1,6 +1,6 @@
 ## About
 
-Hi you👋 I'm [Yirga Belay, PhD](https://www.linkedin.com/in/yirgabelay/)🤦‍♂️
+Hi you👋 I'm [Yirga Belay, PhD](https://github.com/Yirga-16)🤦‍♂️
 
 <h2 align="center">
 A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
